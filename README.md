@@ -43,6 +43,6 @@ Update this section with the technologies used in the project, such as **React, 
 
 ## 🌟 Why Finance Tracker?
 
-Finance Tracker aims to make personal finance simple, transparent, and accessible. By presenting financial data through meaningful visualizations and actionable insights, it helps users understand their spending, stay within budget, and work toward their financial goals.
+One of the greatest problems faced today in the world. Finance Tracker aims to make personal finance simple, transparent, and accessible. By presenting financial data through meaningful visualizations and actionable insights, it helps users understand their spending, stay within budget, and work toward their financial goals.
 
 **Track smarter. Spend wisely. Save consistently.**
